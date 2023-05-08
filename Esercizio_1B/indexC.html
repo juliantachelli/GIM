@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>Rettangoli</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(0, 0, 0);
+		}
+		canvas{
+			position:absolute;
+			margin-left: -200px;
+			margin-top: -200px;
+			top: 50%;
+		}
+		#sx {
+			left: calc(50% - 200px);
+		}
+		#dx {
+			left: calc(50% + 200px);
+		}
+	</style>
+</head>
+<body>
+	<canvas id="sx" width=400 height=400></canvas>
+	<canvas id="dx" width=400 height=400></canvas>
+	<script type="module">
+
+		import Sequencer from './js/sequencer.min.js';
+
+		Sequencer.make({
+			canvas       	 : document.querySelector("#sx"),
+			from         	 : "img/rettangoli/001.jpg",
+			to           	 : "img/rettangoli/029.jpg",
+			direction        : "x",
+			playMode         : "hover",
+			loop         	 : "loop",
+		})
+		Sequencer.make({
+			canvas       	 : document.querySelector("#dx"),
+			from         	 : "img/rettangoli/001.jpg",
+			to           	 : "img/rettangoli/029.jpg",
+			direction        : "-x",
+			playMode         : "hover",
+			loop         	 : "loop",
+		})
+
+	</script>
+</body>
+</html>
