@@ -25,5 +25,5 @@
 [Forma e senso interattivo](link)  
 
 ### Esercizio 3
-[Pong 1](https://juliantachelli.github.io/GIM/Esercizio_3/pong_1/)  
+[Pong 1](https://juliantachelli.github.io/GIM/Esercizio_3/pong_1)  
 [Pong 2](link)  
