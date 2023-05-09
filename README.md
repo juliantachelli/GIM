@@ -14,12 +14,12 @@
 
 
 ### Esercizio 1B
-[Prova grafica](link)  
-[Prova fotografica](link)  
+[Prova grafica](https://juliantachelli.github.io/GIM/Esercizio_1B/indexC.html)  
+[Prova fotografica](https://juliantachelli.github.io/GIM/Esercizio_1B/indexB.html)  
 [Dittico finale](link)  
 
 ### Esercizio 2A
-[Forma e senso](link)  
+[Forma e senso](https://juliantachelli.github.io/GIM/Esercizio_2A/index.html)  
 
 ### Esercizio 2B
 [Forma e senso interattivo](link)  
