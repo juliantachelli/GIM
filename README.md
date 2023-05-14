@@ -21,7 +21,7 @@
 [Forma e senso](https://juliantachelli.github.io/GIM/Esercizio_2A/index.html)  
 
 ### Esercizio 2B
-[Forma e senso interattivo](link)  
+[Forma e senso interattivo](https://juliantachelli.github.io/GIM/Esercizio_2B/indexD)  
 
 ### Esercizio 3
 [Pong](https://juliantachelli.github.io/GIM/Esercizio_3/1_pong/)  
