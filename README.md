@@ -25,5 +25,6 @@
 [Forma e senso interattivo](link)  
 
 ### Esercizio 3
-[Pong 1](https://juliantachelli.github.io/GIM/Esercizio_3/pong_1)  
-[Pong 2](link)  
+[Pong](https://juliantachelli.github.io/GIM/Esercizio_3/1_pong/)  
+[Pioggia](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia/)  
+[Neve](https://juliantachelli.github.io/GIM/Esercizio_3/3_neve/)  
