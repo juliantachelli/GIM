@@ -15,8 +15,7 @@
 
 ### Esercizio 1B
 [Prova grafica](https://juliantachelli.github.io/GIM/Esercizio_1B/indexC.html)  
-[Prova fotografica](https://juliantachelli.github.io/GIM/Esercizio_1B/indexB.html)  
-[Dittico finale](link)  
+[Prova fotografica](https://juliantachelli.github.io/GIM/Esercizio_1B/indexB.html)   
 
 ### Esercizio 2A
 [Forma e senso](https://juliantachelli.github.io/GIM/Esercizio_2A/index.html)  
