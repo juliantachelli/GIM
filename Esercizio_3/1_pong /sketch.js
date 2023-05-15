@@ -47,6 +47,7 @@ function Ball(x, y) {
 		const g = (sin(frameCount * 0.032) + 1) * 127.5
 		const b = (sin(frameCount * 0.033) + 1) * 127.5
 	fill(r, g, b);
+	//console.log(r,g,b)
 		noStroke();
 		ellipse(this.x, this.y, this.sz, this.sz);
 	};
