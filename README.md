@@ -21,9 +21,9 @@
 [Forma e senso](https://juliantachelli.github.io/GIM/Esercizio_2A/index.html)  
 
 ### Esercizio 2B
-[Forma e senso interattivo](https://juliantachelli.github.io/GIM/Esercizio_2B/indexD)  
+[Forma e senso interattivo](https://juliantachelli.github.io/GIM/Esercizio_2B/indexD.html)  
 
 ### Esercizio 3
-[Pong](https://juliantachelli.github.io/GIM/Esercizio_3/1_pong/)  
-[Pioggia](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia/)  
-[Neve](https://juliantachelli.github.io/GIM/Esercizio_3/3_neve/)  
+[Pong](https://juliantachelli.github.io/GIM/Esercizio_3/1_pong/index.html)  
+[Pioggia](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia/index.html)  
+[Neve](https://juliantachelli.github.io/GIM/Esercizio_3/3_neve/index.html)  
