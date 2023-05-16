@@ -65,3 +65,6 @@ function Ball(x, y) {
 function keyPressed(){
 	if (key == 's') save("pong.png") 
 }
+function windowResized(){
+	resizeCanvas(windowWidth, windowHeight)
+}

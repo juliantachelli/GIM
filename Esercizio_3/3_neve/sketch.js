@@ -1,7 +1,7 @@
 let snowflakes = []; // array to hold snowflake objects
 
 function setup() {
-  createCanvas(1512, 801);
+  createCanvas(windowWidth, windowHeight);
   fill(240);
   noStroke();
 }
@@ -36,7 +36,7 @@ function snowflake() {
 
   this.update = function(time) {
     // x position follows a circle
-    let w = 0.6; // angular speed
+    let w = 0.1; // angular speed
     let angle = w * time + this.initialangle;
     this.posX = width / 2 + this.radius * sin(angle);
 
@@ -57,4 +57,8 @@ function snowflake() {
 
 function keyPressed(){
 	if (key == 's') save("neve.png") 
+}
+
+function windowResized(){
+	resizeCanvas(windowWidth, windowHeight)
 }

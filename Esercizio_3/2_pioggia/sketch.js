@@ -1,23 +1,23 @@
 var drop = []
 
 function setup() {
-  createCanvas(1512, 801);
-  for(var i = 0; i < 200; i++) {
+  createCanvas(windowWidth, windowHeight);
+  for(var i = 0; i < 500; i++) {
     drop[i] = new Drop();
 }
 }
 
 function draw() {
   background(0);
-  for(var i = 0; i < 200; i++) {
+  for(var i = 0; i < 300; i++) {
   drop[i].show();
   drop[i].update();
 }
 }
 
 function Drop() {
-  this.x = random(0, width);
-  this.y = random(0, -height);
+  this.x = random(0, windowWidth);
+  this.y = random(0, -windowHeight);
   
   this.show = function() {
     noStroke();
@@ -38,4 +38,8 @@ function Drop() {
 
 function keyPressed(){
 	if (key == 's') save("pioggia.png") 
+}
+
+function windowResized(){
+	resizeCanvas(windowWidth, windowHeight)
 }
