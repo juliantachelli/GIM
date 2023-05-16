@@ -26,4 +26,8 @@
 ### Esercizio 3
 [Pong](https://juliantachelli.github.io/GIM/Esercizio_3/1_pong/index.html)   
 [Pioggia](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia/index.html)  
+[Pioggia interattiva](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia_interattiva/index.html)  
 [Neve](https://juliantachelli.github.io/GIM/Esercizio_3/3_neve/index.html)  
+
+### Esercizio 4
+[Time machine](https://juliantachelli.github.io/GIM/Esercizio_4/time_machine)
