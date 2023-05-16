@@ -2,7 +2,7 @@ var balls = [];
 
 alert('ATTENZIONE:\n'+
 		  'Questa composizione, se guardata attentamente,\n'+
-		  'potrebbe farti perdere tanto tempo e crearti dipendenza.\n\n'+
+		  'potrebbe crearti dipendenza.\n\n'+
 		  'Clicca con il mouse per creare nuovi "pong."\n\n'+
 	    'Buon divertimento :)');
 
@@ -43,9 +43,9 @@ function Ball(x, y) {
 	};
 	
 	this.display = function() {
-		const r = (sin(frameCount * 0.031) + 1) * 127.5
-		const g = (sin(frameCount * 0.032) + 1) * 127.5
-		const b = (sin(frameCount * 0.033) + 1) * 127.5
+		const r = (cos(frameCount * 0.031) + 1) * 127.5
+		const g = (cos(frameCount * 0.032) + 1) * 127.5
+		const b = (cos(frameCount * 0.033) + 1) * 127.5
 	fill(r, g, b);
 	//console.log(r,g,b)
 		noStroke();
