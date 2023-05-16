@@ -48,12 +48,12 @@ function draw(){
     daysPassed += previousMonthDate.getDate();
     monthsPassed--;
   }
-  const r = (sin(frameCount * 0.031) + 1) * 127.5
-	const g = (sin(frameCount * 0.032) + 1) * 127.5
-	const b = (sin(frameCount * 0.033) + 1) * 127.5
+  const r = (cos(frameCount * 0.031) + 1) * 127.5
+	const g = (cos(frameCount * 0.032) + 1) * 127.5
+	const b = (cos(frameCount * 0.033) + 1) * 127.5
 	fill(r, g, b) 
   textSize(50);
-  text("SEI VIVO DA:", width / 2, height / 3 - 100);
+  text("Sei vivo da:", width / 2, height / 3 - 100);
   textSize(50);
  
   //text("testo"+infovar, x, y)
