@@ -27,6 +27,7 @@
 [Pong](https://juliantachelli.github.io/GIM/Esercizio_3/1_pong/index.html)   
 [Pioggia](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia/index.html)  
 [Pioggia interattiva](https://juliantachelli.github.io/GIM/Esercizio_3/2_pioggia_interattiva/index.html)  
+[Bloody Rain](https://juliantachelli.github.io/GIM/Esercizio_3/2_bloody_rain/index.html)  
 [Neve](https://juliantachelli.github.io/GIM/Esercizio_3/3_neve/index.html)  
 
 ### Esercizio 4
