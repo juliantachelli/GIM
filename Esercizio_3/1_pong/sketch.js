@@ -10,12 +10,13 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 	background(0)
 
-	for (var i = 0; i < 50; i++) {
+	for (var i = 0; i < 500; i++) {
     balls[i] = new Ball(width/2, height/2);
   }
 } 
 
-function draw() { 	
+function draw(){
+		background(0, 10)
 
 	
 	for (var i = 0; i < balls.length; i++) {
@@ -23,7 +24,8 @@ function draw() {
 		balls[i].display();
 		balls[i].bounce();
 		fill(255)
-  }
+		
+	}
 }
 
 function mousePressed() {
