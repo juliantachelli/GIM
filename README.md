@@ -30,6 +30,5 @@
 [Bloody Rain](https://juliantachelli.github.io/GIM/Esercizio_3/2_bloody_rain/index.html)  
 [Neve](https://juliantachelli.github.io/GIM/Esercizio_3/3_neve/index.html)  
 
-### Esercizio 4
-Calcola il tuo tempo di vita sul pianeta terra inserendo la tua data di nascita.  
+### Esercizio 4    
 [Time machine](https://juliantachelli.github.io/GIM/Esercizio_4/time_machine)
